@@ -2,9 +2,9 @@
 To execute the code in this project, you'll need the following Python packages. Install them using `pip` and the provided version numbers:
 
 ```plaintext
-numpy==1.18.2
-pandas==1.0.3
-scikit-learn==0.22.2
-matplotlib==3.2.2
-seaborn==0.10.1
-
+- Python 3.x
+- Jupyter Notebook (optional)
+- Pandas
+- Matplotlib
+- Seaborn
+- Your SQL database system (e.g., MySQL, PostgreSQL)
